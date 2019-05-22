@@ -1,5 +1,7 @@
 # Classic Arcade Game
 
+just check the rules double click index.html & start playing :smiley:
+
 ## Resources used
  
 * JavascriptES6(OOPS)
@@ -12,8 +14,7 @@
 
 * There are several enemy bugs and 1 player a on the panel 
 * The objective of the game is to make the player reach to the water tiles, moving through the gray road tiles without colliding with bugs.
-* Any collision with the bugs and the player results in the game being reset and the player losing a life.
-* Your objective is to open all the cards using your memory in as less time and as less numer of steps as possible.
+* Any collision with the bugs and the player results in the game being reset and the player losing a life
 * Use the arrow keys to move the player .Once the player reaches there, he wins the game.
   Keys             direction
 
